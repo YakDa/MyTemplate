@@ -1,0 +1,1 @@
+This is a Go template code for setting up a new project.
